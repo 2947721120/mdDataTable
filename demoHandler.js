@@ -21,46 +21,46 @@
 
         var pages = [
             {
-                name: 'Basic',
+                name: '基本',
                 codepen: 'mVOKEw'
             },{
-                name: 'Table card',
+                name: '表证',
                 codepen: 'bEBKgK'
             },{
-                name: 'Selectable rows',
+                name: '可选择的行',
                 codepen: 'bEBKRj'
             },{
-                name: 'Selectable rows callback',
+                name: '选择行回调',
                 codepen: 'OMvbMj'
             },{
-                name: 'Sortable columns',
+                name: '可排序的列',
                 codepen: 'dGOKzN'
             },{
-                name: 'Virtual Repeat',
+                name: '虚拟的重复',
                 codepen: 'qbxLEQ'
             },{
-                name: 'Animated sort icon',
+                name: '动画排序图标',
                 codepen: 'MKbXOM'
             },{
-                name: 'Pagination',
+                name: '分页',
                 codepen: 'GoNGMy'
             },{
-                name: 'Ajax support',
+                name: 'AJAX支持',
                 codepen: 'BjpNow'
             },{
-                name: 'Search',
+                name: '搜索',
                 codepen: 'bEBKYx'
             },{
-                name: 'Html support',
+                name: 'Html 支持',
                 codepen: 'LGLYjZ'
             },{
-                name: 'Editable fields - small dialog',
+                name: '可编辑字段的小对话',
                 codepen: 'LNYBZX'
             },{
-                name: 'Editable fields - large dialog',
+                name: '可编辑字段的大对话框',
                 codepen: 'zqYLNj'
             }/*,{
-                name: 'Ripple effect',
+                name: '涟漪效应',
                 codepen: 'xZRzpV'
             }*/
         ];
